@@ -1,0 +1,3 @@
+[submodule "project-name"]
+	path = project-name
+	url = https://github.com/KlausAih/AdhanW.git
