@@ -1,0 +1,4 @@
+/* Prevent link wrapping */
+.whitespace-nowrap {
+    white-space: nowrap; /* Prevent wrapping */
+}
